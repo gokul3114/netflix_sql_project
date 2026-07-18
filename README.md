@@ -226,3 +226,9 @@ Common Ratings: Insights into the most common ratings provide an understanding o
 Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
 Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+## Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-gokul3114-181717?logo=github)](https://github.com/gokul3114)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokul%20G-0A66C2?logo=linkedin)](https://www.linkedin.com/in/gokul-g-1a44952b3/)
